@@ -2,7 +2,7 @@
 === Adobe Business Catalyst to Magento 2.x Migration Tool ===
 Version: 2.4.1
 Developed by: LitExtension
-Download: https://litextension.com/magento-2-x-migration/abantecart-to-magento-2-migration.html 
+Download: https://litextension.com/magento-2-x-migration/adobe-business-catalyst-to-magento-2-migration.html 
 
 
 == Description ==
